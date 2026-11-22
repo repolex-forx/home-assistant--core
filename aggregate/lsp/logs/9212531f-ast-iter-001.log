@@ -1,0 +1,7 @@
+[2026-11-22T18:28:52Z] === AST ITERATION 1 START | repo=home-assistant/core sha=9212531f ===
+[2026-11-22T18:28:52Z] [iter=1] PHASE START: ast repo=home-assistant/core sha=9212531f
+[2026-11-22T18:28:52Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T20:46:10Z] [iter=1] AST chunks built count=23 triples=130302486
+[2026-11-22T20:46:10Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/9212531f40a0b7b23229a90d688dd79d9dfccff4/.complete
+[2026-11-22T20:46:10Z] [iter=1] PHASE END: ast elapsed_s=8238 elapsed_min=137.3
+[2026-11-22T20:46:10Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
